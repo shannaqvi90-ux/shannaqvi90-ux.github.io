@@ -1,0 +1,5 @@
+# Google AdSense ownership file.
+# After you're approved, replace pub-0000000000000000 below with YOUR publisher ID
+# (the digits from your ca-pub-XXXXXXXXXXXXXXXX, keep the "pub-" prefix), then redeploy.
+# Until then this line is inert and harmless.
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
