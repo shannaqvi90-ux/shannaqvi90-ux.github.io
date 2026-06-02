@@ -1,4 +1,4 @@
 User-Agent: *
 Allow: /
 
-Sitemap: https://shannaqvi90-ux.github.io/sitemap.xml
+Sitemap: https://mortgage-calculator-uae.com/sitemap.xml
